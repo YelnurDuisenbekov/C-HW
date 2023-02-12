@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WW\\Desktop\\C#\\HW1\\task4\\task4.csproj": {}
+    "C:\\Users\\WW\\Desktop\\C#\\HW1\\Task4\\task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WW\\Desktop\\C#\\HW1\\task4\\task4.csproj": {
+    "C:\\Users\\WW\\Desktop\\C#\\HW1\\Task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WW\\Desktop\\C#\\HW1\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\WW\\Desktop\\C#\\HW1\\Task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "C:\\Users\\WW\\Desktop\\C#\\HW1\\task4\\task4.csproj",
+        "projectPath": "C:\\Users\\WW\\Desktop\\C#\\HW1\\Task4\\task4.csproj",
         "packagesPath": "C:\\Users\\WW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WW\\Desktop\\C#\\HW1\\task4\\obj\\",
+        "outputPath": "C:\\Users\\WW\\Desktop\\C#\\HW1\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WW\\AppData\\Roaming\\NuGet\\NuGet.Config"
