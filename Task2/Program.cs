@@ -1,4 +1,4 @@
-﻿// 2 числа, большее и меньшее
+﻿// 2 числа, макс и мин
 Console.Write("Введите первое число: ");
 int number1 = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число: ");

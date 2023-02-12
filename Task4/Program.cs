@@ -1,4 +1,5 @@
-﻿Console.Write("Введите первое число: ");
+﻿// 3 числа, максимальное
+Console.Write("Введите первое число: ");
 int number1 = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число: ");
 int number2 = int.Parse(Console.ReadLine()!);
